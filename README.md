@@ -1,2 +1,11 @@
 # Parallax
-Criando o efeito Parallax utilizando somente HTML e CSS
+
+Creating the Parallax efect using only HTML and CSS.
+
+## Installation
+
+Clone the project on your PC.
+
+## Usage
+
+So, open the root directory in your Browser.
